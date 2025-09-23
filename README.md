@@ -22,17 +22,9 @@ mvn spring-boot:run
 
 Resultado
 
+<img width="1098" height="494" alt="image" src="https://github.com/user-attachments/assets/f8269c15-0826-4d93-b60e-55229585055c" />
 
-
-
-## Arquitectura
-
-## Concurrencia
-
-
-# AWS
-
-## Aceptación
+El proyecto fue realizado con (inicializr)[https://start.spring.io] para montar el proyecto maven con unas dependencias mínimas, y ya se crearon las clases dadas en el tutorial de jpa.
 
 ### Contruido con
 
