@@ -5,7 +5,8 @@ Seguir los tutoriales con CLI y JPA postulados para esta semana
 ## PreRequisitos
 Para el proyecto debemos configurar un entorno maven para armar el proyecto, para esto hay diferentes opciones como visual studio, intellij, etc. Si se quiere trabajar sobre estos se debe configurar e instalar maven para su funcionamiento, pero, para este laboratorio y facilitarme este proceso utilicé Netbeans el cual me ahorra ese proceso, puede instalar el ambiente de desarrollo en su página oficial [aquí](https://netbeans.apache.org/front/main/index.html). También debemos tener java 17 instalado y git para poder clonar el repositorio actual.
 Además de tener instalado maven, debe tener docker instalado en su computador para lograr ejecutar el laboratorio y los contenedores
-
+## CLI
+No pude crear las instancias ya que no me generaba las llaves por falta de permiso en aws, no se por qué pasó eso, ya que había podido hacerlo anteriormente
 ## Accessing Data with JPA
 
 instalación con
